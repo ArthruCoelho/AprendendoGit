@@ -1,6 +1,4 @@
 ###OLÁ MUNDO!
 
-Essa é a 3° revisão deste arquivo!
-
-Develop 0.01
-softureow
+Testando as funcionalidades do Git
+Tanto no projeto da DIO ou no curso de Boas práticas no desenvolvimento de código da Timtec
